@@ -1,0 +1,5 @@
+%{"earmark": {:hex, :earmark, "0.2.1"},
+  "monolith": {:git, "https://github.com/NobbZ/monolith.git", "26d1a21192e7c959fd292546afaef7af3ba9dac0", [branch: "master"]},
+  "ra": {:hex, :ra, "0.3.2"},
+  "yamerl": {:git, "https://github.com/yakaz/yamerl.git", "ae810a808817d9482b4628ae3e20d746e3729fe0", []},
+  "yaml_elixir": {:hex, :yaml_elixir, "1.0.0"}}

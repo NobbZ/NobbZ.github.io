@@ -1,0 +1,2 @@
+defmodule NobbzBlog do
+end
